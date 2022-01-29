@@ -8,7 +8,7 @@ module.exports = {
   theme: '@vuepress/theme-default',
   themeConfig: {
     // 配置默认主题
-    logo: '/1.png',
+    logo: '/opal.png',
     navbar: [
       // NavbarItem
       {

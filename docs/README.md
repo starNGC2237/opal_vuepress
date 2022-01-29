@@ -1,7 +1,7 @@
 ---
 home: true
 title: Opal
-heroImage: 1.png
+heroImage: opal.png
 actions:
   - text: 快速上手
     link: /zh/guide/
